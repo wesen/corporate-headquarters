@@ -67,3 +67,6 @@
 [submodule "bobatea"]
 	path = bobatea
 	url = git@github.com:go-go-golems/bobatea
+[submodule "go-emrichen"]
+	path = go-emrichen
+	url = git@github.com:go-go-golems/go-emrichen
