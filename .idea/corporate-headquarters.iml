@@ -15,6 +15,10 @@
       <excludeFolder url="file://$MODULE_DIR$/promptos/go-plugin" />
       <excludeFolder url="file://$MODULE_DIR$/glazed/.history" />
       <excludeFolder url="file://$MODULE_DIR$/parka/.history" />
+      <excludeFolder url="file://$MODULE_DIR$/.history" />
+      <excludeFolder url="file://$MODULE_DIR$/bobatea/.history" />
+      <excludeFolder url="file://$MODULE_DIR$/bobatea/dist" />
+      <excludeFolder url="file://$MODULE_DIR$/escuse-me/dist" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
